@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='devatestPyGithubFork',
+    name='testPyGithubFork',
     version='default',
     description='Code wraps PyGithub to simplify workflows dealing with forks',
     author='hassenius',
